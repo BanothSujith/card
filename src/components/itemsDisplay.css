@@ -1,0 +1,8 @@
+.items{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(20em,1fr));
+    gap:.5em;
+    background-color: rgb(228, 228, 228);
+    padding:1em .5em;
+}
+
